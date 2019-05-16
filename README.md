@@ -2,6 +2,8 @@
 
 Running through the node.js basics. Learned alot about node buffer through this tutorial. Buffer is a core feature in node.js that makes it possible to manipulate or interact with streams of binary data. Here is an article that goes into further detail. https://medium.freecodecamp.org/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8 <br/>
 
+Click image to watch run through of this node-repo
+
 [![Watch the video](documentation/screenShot.JPG)](https://youtu.be/Ou2lrSxMkjQ)
 
 # Why? 
